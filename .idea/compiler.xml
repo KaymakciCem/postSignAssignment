@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="backend-coding-challenge.app-java" target="17" />
+      <module name="backend-coding-challenge.app-java.main" target="17" />
+      <module name="backend-coding-challenge.app-java.test" target="17" />
+      <module name="backend-coding-challenge.app-kotlin" target="17" />
+      <module name="backend-coding-challenge.app-kotlin.main" target="17" />
+      <module name="backend-coding-challenge.app-kotlin.test" target="17" />
+      <module name="backend-coding-challenge.jvm-shared" target="17" />
+      <module name="backend-coding-challenge.jvm-shared.main" target="17" />
+      <module name="backend-coding-challenge.jvm-shared.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
