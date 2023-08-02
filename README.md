@@ -1,4 +1,4 @@
-# Signavio Backend Coding Challenge
+# Backend Coding Challenge
 Thank you for your interest in working with Signavio! After your first interview with us, we would like to get to know your approach to problem solving in this coding challenge.
 
 This challenge is actually closely related to the requirements of one of our products: Process Intelligence. This product enables Signavio customers to analyse big data generated from their processes and lets them recognize the gaps and variants from the intended business process (to-be) and the operating technical processes (as-is). Find out more about Process Intelligence [here](https://www.signavio.com/products/process-intelligence/)!
